@@ -21,7 +21,7 @@ Nanyang Polytechnic (NYP), 2021 to 2024
 -	Model handled batch data streaming and accurately identified 80% of the patients with the disease.
 -	Presented the model to teachers and received their positive feedback and nomination to attend the distinction presentation. The project achieved an A grade.
 
-###Web Application Development, Jul 2022 to Aug 2022
+### Web Application Development, Jul 2022 to Aug 2022
 -	Member in a group of four. Designed and developed a fictitious basketball website. Utilized Jinja, HTML5, Flask, Shelve, and Python to manage accounts and account navigation permissions.
 -	Presented the website to teachers and received positive feedback. The project achieved a Distinction grade.
 
