@@ -40,3 +40,4 @@ Nanyang Polytechnic (NYP), 2021 to 2024
 -	Attained WSQ Basic Food Hygiene Certification.
 -	Handled complaints, supported customer needs, and promoted products to customers, exceeding sales targets.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxiang1121&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
