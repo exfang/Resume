@@ -4,11 +4,13 @@ Phone: (+65) 9147-7565 | Email: fangggandrew@gmail.com | Linkedin: www.linkedin.
 ## Education
 Nanyang Polytechnic (NYP), 2021 to 2024
 - Diploma in Applied AI and Analytics (DAAA)
-- Graduating in Apr 2024 (Expected), Current GPA: 3.95/4.00.
+- Graduating in Apr 2024, Final GPA of 6 Semesters: 3.96/4.00.
 - Diploma plus module; CLOUD COMPUTING ESSENTIALS.
 - Director’s List for Academic Years 2021 and 2022 Semester 1 and 2, and 2023 Semester 1.
 
 ## Awards and Certification
+- SAS Institute Silver Award (Awarded to the second in graduating cohort)
+- Diploma with Merit (Awarded to the top 5% of the graduating cohort)
 - Certificate of Academic Achievement 2022 and 2023, Edusave
 - Microsoft Certified: Power BI Data Analyst Associate, 2022
 - Good Leadership and Service (EAGLES) 2020, Edusave
